@@ -95,3 +95,4 @@ print(newList)
 
 #List comprehension gives a shorter syntax when you want to create a new list based on the values of an exsisting list.
 
+####okokokokokok
